@@ -1,6 +1,6 @@
-## Horual Leon | Senior Software Developer
+<h1 align="center">🚀 Horual Leon | Senior Software Developer 🚀</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=28+Years+of+Experience+in+Software+Development;Senior+COBOL+Developer+at+Banco+do+Brasil;Creator+of+Bora%2C+the+Event+Search+App;Passionate+about+Tech+Innovation" alt="Typing SVG" />
 </p>
 
@@ -21,4 +21,34 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&layout=compact&theme=radical" />
+</p>
+
+<div align="center">
+  <canvas id="cubeCanvas" width="200" height="200"></canvas>
+</div>
+
+<script>
+  const canvas = document.getElementById("cubeCanvas");
+  const ctx = canvas.getContext("2d");
+
+  let angle = 0;
+  function drawCube() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.save();
+    ctx.translate(canvas.width / 2, canvas.height / 2);
+    ctx.rotate(angle);
+    ctx.fillStyle = "#00FF00";
+    ctx.fillRect(-30, -30, 60, 60);
+    ctx.restore();
+    angle += 0.02;
+    requestAnimationFrame(drawCube);
+  }
+  drawCube();
+</script>
 
