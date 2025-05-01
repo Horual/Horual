@@ -22,7 +22,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/8a/b2/de8ab222-0c2d-2cd6-b886-b6f785d25674/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1200x600wa.png" height="25" alt="cobol logo"  />
+  <img src="https://drive.google.com/file/d/1T77AiYDbW8pBSYoTKT1woJBKE1FgK2fS/view?usp=sharing" height="25" alt="cobol logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
