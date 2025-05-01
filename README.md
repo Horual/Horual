@@ -38,7 +38,8 @@
   <canvas id="cubeCanvas" width="200" height="200"></canvas>
 </div>
 
-<img src="https://raw.githubusercontent.com/username/repo/main/animated-cube.svg" width="200" />
+
+🌐 [Voir mon animation JS interactive](https://horual.github.io/BORA-animation)
 
 
 
