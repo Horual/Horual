@@ -34,10 +34,12 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Horual&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Horual&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&theme=github_dark" 
+    alt="GitHub stats" >
 
   <a href="https://github.com/Horual/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Horual&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&hide=html,scss,less&bg_color=000border_radius=3&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Horual&layout=compact&langs_count=6&hide=html,scss,less&theme=github_dark&border_radius=6" 
+    alt="Most Used Languages">
   </a>
 </div>
 <picture align="center">
