@@ -31,7 +31,7 @@
   <canvas id="cubeCanvas" width="200" height="200"></canvas>
 </div>
 
-![snake gif](https://github.com/Horual/Horual/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Horual/blob/output/github-contribution-grid-snake.svg)
 
 
 
