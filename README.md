@@ -21,25 +21,17 @@
 
 ---
 <div>
-<div>
-<p align="center">
+<a href="https://github.com/Horual">
   <img src="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true&theme=radical" />
-</p>
-</div>
-
-<div>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&layout=compact&theme=radical" />
-</p>
-</div>
+</a>
 </div>
 
 <div align="center">
   <canvas id="cubeCanvas" width="200" height="200"></canvas>
 </div>
 
-
-🌐 [Voir mon animation JS interactive](https://horual.github.io/BORA-animation)
+![snake gif](https://github.com/Horual/Horual/blob/output/github-contribution-grid-snake.svg)
 
 
 
