@@ -38,22 +38,6 @@
   <canvas id="cubeCanvas" width="200" height="200"></canvas>
 </div>
 
-<script>
-  const canvas = document.getElementById("cubeCanvas");
-  const ctx = canvas.getContext("2d");
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&layout=compact)
 
-  let angle = 0;
-  function drawCube() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.save();
-    ctx.translate(canvas.width / 2, canvas.height / 2);
-    ctx.rotate(angle);
-    ctx.fillStyle = "#00FF00";
-    ctx.fillRect(-30, -30, 60, 60);
-    ctx.restore();
-    angle += 0.02;
-    requestAnimationFrame(drawCube);
-  }
-  drawCube();
-</script>
 
