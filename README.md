@@ -22,14 +22,20 @@
 ---
 <div>
 <a href="https://github.com/Horual">
-  <img src="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&layout=compact&theme=radical" />
+  <img width="90" src="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true&theme=radical" />
+  <img width="90"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&layout=compact&theme=radical" />
 </a>
 </div>
 
 <div align="center">
   <canvas id="cubeCanvas" width="200" height="200"></canvas>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Horual/Horual/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Horual/Horual/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Horual/Horual/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
