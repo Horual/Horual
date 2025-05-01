@@ -38,6 +38,7 @@
   <canvas id="cubeCanvas" width="200" height="200"></canvas>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&layout=compact)
+<img src="https://raw.githubusercontent.com/username/repo/main/animated-cube.svg" width="200" />
+
 
 
