@@ -1,7 +1,7 @@
 # 🚀 Horual Leon | Senior Software Developer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=28+Years+of+Experience+in+Software+Development;Senior+COBOL+Developer+at+Banco+do+Brasil;Creator+of+Bora%2C+the+Event+Search+App;Passionate+about+Tech+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=28+Years+of+Experience+in+Software+Development;Senior+COBOL+Developer+at+Banco+do+Brasil;Creator+of+Bora%2C+the+Event+Search+App;Passionate+about+Tech+Innovation" alt="Typing SVG" />
 </p>
 
 Hi there! I'm Horual Leon, a passionate software developer with deep roots in mainframe systems and COBOL, but an ever-growing enthusiasm for modern mobile and web technologies.
