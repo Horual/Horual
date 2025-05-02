@@ -6,13 +6,13 @@
 
 Hi there! I'm Horual Leon, a passionate software developer with deep roots in mainframe systems and COBOL, but an ever-growing enthusiasm for modern mobile and web technologies.
 
-💼 Senior Developer with 28+ years of experience in banking, government, and enterprise systems
-💾 Mainframe wizard: COBOL, JCL, DB2, CICS
-📱 Tech explorer: Building the BORA app – an event search and ticketing platform powered by React Native, Node.js, and PostgreSQL
-🚀 Always learning and evolving with new stacks like Next.js and TypeScript
-🇧🇷 Based in Brazil, open to global opportunities
+💼 Senior Developer with 28+ years of experience in banking, government, and enterprise systems <br>
+💾 Mainframe wizard: COBOL, JCL, DB2, CICS  <br>
+📱 Tech explorer: Building the BORA app – an event search and ticketing platform powered by React Native, Node.js, and PostgreSQL  <br>
+🚀 Always learning and evolving with new stacks like Next.js and TypeScript  <br>
+🇧🇷 Based in Brazil, open to global opportunities  <br>
 "Legacy systems taught me stability. Modern tech teaches me speed. I build with both."
-
+ <br>
 If you'd like to know more about me, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/horualleon/)  
 
 <br>
