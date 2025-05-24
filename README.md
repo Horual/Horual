@@ -50,22 +50,15 @@ If you'd like to know more about me, feel free to check out my [LinkedIn profile
 ---
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Horual&hide_progress=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Horual&show_icons=true" />
-  </picture>
+  
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Horual&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Horual&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Horual&radius=16&theme=redical&area=true&order=5&line=008000&point=00FF00&area_color=009000" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Horual/Horual/output/github-contribution-grid-snake-dark.svg">
