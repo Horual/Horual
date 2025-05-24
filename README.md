@@ -15,24 +15,22 @@ Hi there! I'm Horual Leon, a passionate software developer with deep roots in ma
  <br> <br> <br>
 If you'd like to know more about me, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/horualleon/)  
 
-<br>
+#
+<img align="right" alt="" height="250px" src="./src/mainframe.gif">
+<h3 align="left">Connect with me!</h3>
 
-  <a href="https://github.com/Horual?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Horual?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Horual?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Horual?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
-
----
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:horual.leon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/horual/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/horualleon/)
 
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-<img src="https://img.shields.io/badge/Mainframe-DB2-00AAFF?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mainframe-DB2-00AAFF?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/COBOL-FF6600?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/JCL-007ACC?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/CICS-FFD700?style=for-the-badge&logo=ibm&logoColor=black" />
   <br>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="39" alt="javascript logo"  />
@@ -47,7 +45,8 @@ If you'd like to know more about me, feel free to check out my [LinkedIn profile
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="39" alt="Photoshop logo"  />
 </div>
 
----
+#
+
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   
