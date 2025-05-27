@@ -16,7 +16,7 @@ Hi there! I'm Horual Leon, a passionate software developer with deep roots in ma
 If you'd like to know more about me, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/horualleon/)  
 
 #
-<img align="right" alt="" height="250px" src="./src/mainframe.gif">
+<img align="right" alt="" height="240px" src="./src/mainframe.gif">
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:horual.leon@gmail.com)
